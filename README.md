@@ -2,7 +2,7 @@
 
 A custom pcb development board for learning electronics 
 
-##Features
+##Features##
 
  This PCB is desgined with the help of "https://macondo.hackclub.com/docs/build-a-devboard#footprint-time"
  

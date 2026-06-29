@@ -13,6 +13,7 @@ This development board is designed to be a compact, reliable prototyping platfor
 * External Storage: Incorporates external flash memory connected over a quad serial peripheral interface, giving ample room for large programs and data storage.
 * Clock Source: Utilizes a twelve megahertz crystal oscillator circuit to ensure stable and highly accurate clock timing for the microcontroller.
 * Input and Output Breakouts: Exposes general purpose input output pins to dual row pin headers, providing quick access for connecting sensors, displays, and external components.
+* There are 40 pins externally for data
 
 ## Hardware Design and Previews
 

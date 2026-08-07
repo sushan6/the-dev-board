@@ -14,23 +14,28 @@ This development board is designed to be a compact, reliable prototyping platfor
 * Clock Source: Utilizes a twelve megahertz crystal oscillator circuit to ensure stable and highly accurate clock timing for the microcontroller.
 * Input and Output Breakouts: Exposes general purpose input output pins to dual row pin headers, providing quick access for connecting sensors, displays, and external components.
 * There are 40 pins externally for data
-
+* sd card reader 
 ## Hardware Design and Previews
 
 ### Schematic Layout
 The schematic is divided into clean functional blocks including power management, flash memory wiring, crystal clock generation, and pin mappings. 
 
-<img width="817" height="579" alt="image" src="https://github.com/user-attachments/assets/6711d180-5367-4b4c-a65a-19ef6d6183bf" />
+<img width="738" height="520" alt="schematics1" src="https://github.com/user-attachments/assets/5eee4fdb-c5f1-40e2-8ffe-b2b7f1e71cac" />
 
 ---
 
 ### PCB Layout and 3D Visualizations
 The physical layout focuses on tight trace routing, proper decoupling capacitor placement for power stability, and optimized signal paths. 
-<img width="210" height="409" alt="pcb image" src="https://github.com/user-attachments/assets/d244f31b-1b99-4f67-ad2c-be14d9a364b1" />
+
+<img width="298" height="406" alt="pcb image1" src="https://github.com/user-attachments/assets/4f1341b9-f3c7-47d9-a2a1-7af2dd44f1b4" />
+
 
 #### Board Front View
-<img width="302" height="599" alt="front-3d-pcb" src="https://github.com/user-attachments/assets/540ede24-c20b-4fff-8cf0-4c68a771e3ca" />
+
+<img width="308" height="563" alt="front-3d-pcb1" src="https://github.com/user-attachments/assets/ddfaa523-9028-4dc1-951d-6c2c8d5300e6" />
+
 
 
 #### Board Back View
-<img width="288" height="582" alt="back-3d-pcb" src="https://github.com/user-attachments/assets/b0ab2e89-41ff-4279-a087-f5cc453e1552" />
+
+<img width="358" height="561" alt="back-3d-pcb1" src="https://github.com/user-attachments/assets/a001488e-4d79-4d8a-b426-7ab197211070" />

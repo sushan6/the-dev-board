@@ -1,20 +1,16 @@
-# The Dev Board
-
-This repository contains the design files for a custom microcontroller development board built using KiCad. The project centers around the RP2040 chip, breaking out its pins and incorporating essential subsystems for power, storage, and external connectivity.
-
-## Project Overview
+# Sushan's dev board 
 
 This development board is designed to be a compact, reliable prototyping platform using the RP2040 microcontroller. It handles power management, high-speed external memory routing, and precise clocking, making it ready for custom embedded software applications.
 
 ## Key Features
 
-* Microcontroller: Based on the RP2040 chip, bringing twin core processing capabilities to a custom hardware layout.
-* Power Management: Driven by a modern USB C receptacle for both power delivery and data interfacing, regulated down to a clean three point three volts using an onboard linear regulator.
+* Microcontroller: Based on the RP2040 chip, bringing twin-core processing capabilities to a custom hardware layout.
+* Power Management: Driven by a modern USB-C receptacle for both power delivery and data interfacing, regulated down to a clean three-point-three volts using an onboard linear regulator.
 * External Storage: Incorporates external flash memory connected over a quad serial peripheral interface, giving ample room for large programs and data storage.
-* Clock Source: Utilizes a twelve megahertz crystal oscillator circuit to ensure stable and highly accurate clock timing for the microcontroller.
-* Input and Output Breakouts: Exposes general purpose input output pins to dual row pin headers, providing quick access for connecting sensors, displays, and external components.
+* Clock Source: Utilises a twelve megahertz crystal oscillator circuit to ensure stable and highly accurate clock timing for the microcontroller.
+* Input and Output Breakouts: Exposes general-purpose input/output pins to dual-row pin headers, providing quick access for connecting sensors, displays, and external components.
 * There are 40 pins externally for data
-* sd card reader 
+* SD card reader 
 ## Hardware Design and Previews
 
 ### Schematic Layout
@@ -24,8 +20,8 @@ The schematic is divided into clean functional blocks including power management
 
 ---
 
-### PCB Layout and 3D Visualizations
-The physical layout focuses on tight trace routing, proper decoupling capacitor placement for power stability, and optimized signal paths. 
+### PCB Layout and 3D Visualisations
+The physical layout focuses on tight trace routing, proper decoupling capacitor placement for power stability, and optimised signal paths. 
 
 <img width="298" height="406" alt="pcb image1" src="https://github.com/user-attachments/assets/4f1341b9-f3c7-47d9-a2a1-7af2dd44f1b4" />
 

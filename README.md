@@ -35,3 +35,48 @@ The physical layout focuses on tight trace routing, proper decoupling capacitor 
 #### Board Back View
 
 <img width="358" height="561" alt="back-3d-pcb1" src="https://github.com/user-attachments/assets/a001488e-4d79-4d8a-b426-7ab197211070" />
+
+## Bill of Materials (BOM)
+
+### Main BOM
+
+| **Item** | **Link** | **Quantity** | **Cost (USD)** |
+|---|---|---:|---:|
+| 1 µF Capacitors (0402) | [Robu.in](https://robu.in/product/1uf-capacitor-smdc-0402-pack-of-50/) | 20 | $0.06 |
+| 100 nF Capacitors (0402) | [Robu.in](https://robu.in/product/0402b104j250nt-fh-25v-100nf-x7r%C2%B15-0402-multilayer-ceramic-capacitors-mlcc-smd-smt-rohs/) | 20 | $0.14 |
+| 10 µF Capacitors (0603) | [Robu.in](https://robu.in/product/0603x106m100nt-fh-10v-10uf-x5r%C2%B120-0603-multilayer-ceramic-capacitors-mlcc-smd-smt-rohs/) | 20 | $0.53 |
+| 33 pF Capacitors (0402) | [Robu.in](https://robu.in/product/0402cg330j160nt-fh-smd-multilayer-ceramic-capacitor-33-pf-16-v-0402-1005-metric-%25c2%25b1-5-c0g-np0/) | 20 | $0.01 |
+| USB-C Receptacles | [LCSC India](https://lcscindia.com/part/TYPE-C-31-M-12) | 2 | $0.45 |
+| 1×20 Pin Headers | [Robu.in](https://robu.in/product/ds1021-1x20sf11-b-connfly-1x20-pin-2-54mm-pin-header-v-t-type/) | 4 | $0.55 |
+| MicroSD Card Connectors | [RS India](https://in.rsdelivers.com/product/molex/104031-0811/molex-104031-8-way-push-pull-microsd-memory-card/8967560) | 2 | $4.68 |
+| 5.1 kΩ Resistors (0402) | [Robu.in](https://robu.in/product/rc0402fr-075k1l-yageo-res-thick-film-0402-5-1k-ohm-1-0-063w1-16w-%C2%B1100ppm-c-pad-smd-t-r/) | 20 | $0.05 |
+| 27 Ω Resistors (0402) | [Robu.in](https://robu.in/product/rc0402jr-0727rl-yageo-res-thick-film-0402-27-ohm-5-0-063w1-16w-%25c2%25b1100ppm-c-pad-smd-t-r/) | 20 | $0.02 |
+| 1 kΩ Resistors (0402) | [Robu.in](https://robu.in/product/rc0402fr-071kl-yageo-res-thick-film-0402-1k-ohm-1-0-063w1-16w-%C2%B1100ppm-c-pad-smd-t-r/) | 20 | $0.03 |
+| 10 kΩ Resistors (0402) | [Robu.in](https://robu.in/product/10k-resistor-smdr-0402-pack-of-50/) | 20 | $0.07 |
+| Tactile Switches | [Robu.in](https://robu.in/product/tsa010a2026b-bzcn-3mm-2mm-50ma-round-button-standing-paste-3-9mm-260gf-12v-smd-tactile-switches-rohs/) | 2 | $0.04 |
+| RP2040 Microcontrollers | [Robocraze](https://robocraze.com/products/raspberry-pi-rp2040-microcontroller-ic-chip) | 2 | $1.36 |
+| 3.3V Voltage Regulators | [Microchip](https://www.microchip.com/en-us/product/MCP1700) | 2 | $1.20 |
+| 16 Mbit SPI Flash | [Lion Circuits](https://www.lioncircuits.com/parts/W25Q16JVUXIQ%20TR) | 2 | $4.88 |
+| 12 MHz Crystals | [Robu.in](https://robu.in/product/ysx321sl-12mhz-12pf-10ppm-4pins-smd-smt-metal-surface-quartz-crystal-pack-of-2/) | 2 | $0.43 |
+| Soldering Starter Kit | [Robu.in](https://robu.in/product/soldering-starter-tool-kit-30w-iron-solder-sponge/) | 1 | $13.30 |
+| Custom PCB | [JLCPCB](https://jlcpcb.com/) | 2 | $15.00 |
+
+### Cost Summary
+
+| **Item** | **Cost (USD)** |
+|---|---:|
+| Capacitors (20 each) | $0.75 |
+| Resistors (20 each) | $0.16 |
+| USB-C Receptacles | $0.45 |
+| 1×20 Pin Headers | $0.55 |
+| MicroSD Connectors | $4.68 |
+| Tactile Switches | $0.04 |
+| RP2040 Microcontrollers | $1.36 |
+| Voltage Regulators | $1.20 |
+| SPI Flash Memory | $4.88 |
+| 12 MHz Crystals | $0.43 |
+| Soldering Starter Kit | $13.30 |
+| PCB Fabrication | $15.00 |
+| **Total** | **$42.80** |
+
+Note: Some items are ordered in multipe quantity because of minimum order value

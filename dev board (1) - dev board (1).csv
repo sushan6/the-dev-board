@@ -1,19 +1,19 @@
-ID	Component	Designators	Quantity	Package	Supplier Link	Unit Price	Unit Price Currency	Purchase Total	Purchase Total Currency	Found
-1	1 µF capacitor	C1, C10	20	0402 · 1.0 × 0.5 mm	https://robu.in/product/1uf-capacitor-smdc-0402-pack-of-50/	0.27	INR	5.4	INR	Yes
-2	100 nF capacitor	C2–C9, C11, C12, C17, C19	20	0402 · 1.0 × 0.5 mm	https://robu.in/product/0402b104j250nt-fh-25v-100nf-x7r%C2%B15-0402-multilayer-ceramic-capacitors-mlcc-smd-smt-rohs/	0.68	INR	13.6	INR	Yes
-3	10 µF capacitor	C13, C14, C18	20	0603 · 1.6 × 0.8 mm	https://robu.in/product/0603x106m100nt-fh-10v-10uf-x5r%C2%B120-0603-multilayer-ceramic-capacitors-mlcc-smd-smt-rohs/	2.5	INR	50	INR	Yes
-4	33 pF capacitor	C15, C16	20	0402 · 1.0 × 0.5 mm	https://robu.in/product/0402cg330j160nt-fh-smd-multilayer-ceramic-capacitor-33-pf-16-v-0402-1005-metric-%25c2%25b1-5-c0g-np0/	0.06	INR	1.2	INR	Yes
-5	USB-C receptacle	J1	2	HRO TYPE-C-31-M-12	https://lcscindia.com/part/TYPE-C-31-M-12	21	INR	42	INR	Yes
-6	1×20 pin header	J2, J5	4	2.54 mm pitch · vertical	https://robu.in/product/ds1021-1x20sf11-b-connfly-1x20-pin-2-54mm-pin-header-v-t-type/	13	INR	52	INR	No
-7	MicroSD connector	J4	2	Molex 104031-0811	https://in.rsdelivers.com/product/molex/104031-0811/molex-104031-8-way-push-pull-microsd-memory-card/8967560	220	INR	440	INR	Yes
-8	5.1 kΩ resistor	R1, R2	20	0402 · 1.0 × 0.5 mm	https://robu.in/product/rc0402fr-075k1l-yageo-res-thick-film-0402-5-1k-ohm-1-0-063w1-16w-%C2%B1100ppm-c-pad-smd-t-r/	0.22	INR	4.4	INR	Yes
-9	27 Ω resistor	R3, R4	20	0402 · 1.0 × 0.5 mm	https://robu.in/product/rc0402jr-0727rl-yageo-res-thick-film-0402-27-ohm-5-0-063w1-16w-%25c2%25b1100ppm-c-pad-smd-t-r/	0.08	INR	1.6	INR	Yes
-10	1 kΩ resistor	R5, R6	20	0402 · 1.0 × 0.5 mm	https://robu.in/product/rc0402fr-071kl-yageo-res-thick-film-0402-1k-ohm-1-0-063w1-16w-%C2%B1100ppm-c-pad-smd-t-r/	0.14	INR	2.8	INR	Yes
-11	10 kΩ resistor	R7, R8, R9, R10	20	0402 · 1.0 × 0.5 mm	https://robu.in/product/10k-resistor-smdr-0402-pack-of-50/	0.33	INR	6.6	INR	Yes
-12	Tactile switch	SW1	2	Alps SKRK · verify exact variant	https://robu.in/product/tsa010a2026b-bzcn-3mm-2mm-50ma-round-button-standing-paste-3-9mm-260gf-12v-smd-tactile-switches-rohs/	2	INR	4	INR	Yes
-13	RP2040	U1	2	QFN-56 · 7 × 7 mm	https://robocraze.com/products/raspberry-pi-rp2040-microcontroller-ic-chip	64	INR	128	INR	Yes
-14	3.3V voltage regulator	U2	2	Microchip MCP1700T-3302E/TT · SOT-23-3	https://www.microchip.com/en-us/product/MCP1700	56.55	INR	113.1	INR	Yes
-15	16 Mbit SPI flash	U4	2	Winbond W25Q16JVUXIQ TR · USON-8 · 3 × 2 mm	https://www.lioncircuits.com/parts/W25Q16JVUXIQ%20TR	229	INR	458	INR	No
-16	12 MHz crystal	Y1	2	3225 · 3.2 × 2.5 mm · 4-pin	https://robu.in/product/ysx321sl-12mhz-12pf-10ppm-4pins-smd-smt-metal-surface-quartz-crystal-pack-of-2/	20	INR	40	INR	Yes
-17	Soldering starter kit	Assembly tools	1	30W soldering iron, solder, sponge	https://robu.in/product/soldering-starter-tool-kit-30w-iron-solder-sponge/	1249	INR	1249	INR	Yes
-18	Custom PCB fabrication	PCB	2	Custom fabricated PCBs	https://jlcpcb.com/	15	USD	15	USD	Estimated
+ID,Component,Designators,Quantity,Package,Supplier Link,Unit Price,Unit Price Currency,Purchase Total,Purchase Total Currency,Found
+1,1 µF capacitor,"C1, C10",20,"0402 · 1.0 × 0.5 mm",https://robu.in/product/1uf-capacitor-smdc-0402-pack-of-50/,0.27,INR,5.4,INR,Yes
+2,100 nF capacitor,"C2–C9, C11, C12, C17, C19",20,"0402 · 1.0 × 0.5 mm",https://robu.in/product/0402b104j250nt-fh-25v-100nf-x7r%C2%B15-0402-multilayer-ceramic-capacitors-mlcc-smd-smt-rohs/,0.68,INR,13.6,INR,Yes
+3,10 µF capacitor,"C13, C14, C18",20,"0603 · 1.6 × 0.8 mm",https://robu.in/product/0603x106m100nt-fh-10v-10uf-x5r%C2%B120-0603-multilayer-ceramic-capacitors-mlcc-smd-smt-rohs/,2.5,INR,50.0,INR,Yes
+4,33 pF capacitor,"C15, C16",20,"0402 · 1.0 × 0.5 mm",https://robu.in/product/0402cg330j160nt-fh-smd-multilayer-ceramic-capacitor-33-pf-16-v-0402-1005-metric-%25c2%25b1-5-c0g-np0/,0.06,INR,1.2,INR,Yes
+5,USB-C receptacle,J1,2,HRO TYPE-C-31-M-12,https://lcscindia.com/part/TYPE-C-31-M-12,21.0,INR,42.0,INR,Yes
+6,1×20 pin header,"J2, J5",4,"2.54 mm pitch · vertical",https://robu.in/product/ds1021-1x20sf11-b-connfly-1x20-pin-2-54mm-pin-header-v-t-type/,13.0,INR,52.0,INR,No
+7,MicroSD connector,J4,2,Molex 104031-0811,https://in.rsdelivers.com/product/molex/104031-0811/molex-104031-8-way-push-pull-microsd-memory-card/8967560,220.0,INR,440.0,INR,Yes
+8,5.1 kΩ resistor,"R1, R2",20,"0402 · 1.0 × 0.5 mm",https://robu.in/product/rc0402fr-075k1l-yageo-res-thick-film-0402-5-1k-ohm-1-0-063w1-16w-%C2%B1100ppm-c-pad-smd-t-r/,0.22,INR,4.4,INR,Yes
+9,27 Ω resistor,"R3, R4",20,"0402 · 1.0 × 0.5 mm",https://robu.in/product/rc0402jr-0727rl-yageo-res-thick-film-0402-27-ohm-5-0-063w1-16w-%25c2%25b1100ppm-c-pad-smd-t-r/,0.08,INR,1.6,INR,Yes
+10,1 kΩ resistor,"R5, R6",20,"0402 · 1.0 × 0.5 mm",https://robu.in/product/rc0402fr-071kl-yageo-res-thick-film-0402-1k-ohm-1-0-063w1-16w-%C2%B1100ppm-c-pad-smd-t-r/,0.14,INR,2.8,INR,Yes
+11,10 kΩ resistor,"R7, R8, R9, R10",20,"0402 · 1.0 × 0.5 mm",https://robu.in/product/10k-resistor-smdr-0402-pack-of-50/,0.33,INR,6.6,INR,Yes
+12,Tactile switch,SW1,2,Alps SKRK · verify exact variant,https://robu.in/product/tsa010a2026b-bzcn-3mm-2mm-50ma-round-button-standing-paste-3-9mm-260gf-12v-smd-tactile-switches-rohs/,2.0,INR,4.0,INR,Yes
+13,RP2040,U1,2,QFN-56 · 7 × 7 mm,https://robocraze.com/products/raspberry-pi-rp2040-microcontroller-ic-chip,64.0,INR,128.0,INR,Yes
+14,3.3V voltage regulator,U2,2,Microchip MCP1700T-3302E/TT · SOT-23-3,https://www.microchip.com/en-us/product/MCP1700,56.55,INR,113.1,INR,Yes
+15,16 Mbit SPI flash,U4,2,"Winbond W25Q16JVUXIQ TR · USON-8 · 3 × 2 mm",https://www.lioncircuits.com/parts/W25Q16JVUXIQ%20TR,229.0,INR,458.0,INR,No
+16,12 MHz crystal,Y1,2,"3225 · 3.2 × 2.5 mm · 4-pin",https://robu.in/product/ysx321sl-12mhz-12pf-10ppm-4pins-smd-smt-metal-surface-quartz-crystal-pack-of-2/,20.0,INR,40.0,INR,Yes
+17,Soldering starter kit,Assembly tools,1,"30W soldering iron, solder, sponge",https://robu.in/product/soldering-starter-tool-kit-30w-iron-solder-sponge/,1249.0,INR,1249.0,INR,Yes
+18,Custom PCB fabrication,PCB,2,Custom fabricated PCBs,https://jlcpcb.com/,15.0,USD,15.0,USD,Estimated
